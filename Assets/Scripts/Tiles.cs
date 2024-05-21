@@ -1,19 +1,3 @@
-//using System.Collections;
-//using System.Collections.Generic;
-using UnityEngine;
-//using UnityEngine.SceneManagement;
-//using System.Linq;
-
-[System.Serializable]
-public class Tile
-{
-    public Transform tile;
-    public Transform origin;
-    public Connector connector;
-
-    public Tile(Transform _tile, Transform _origin)
-    {
-        tile = _tile;
-        origin = _origin;
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf9350b1134ef32de8b172306657a3e3003fa9d2a7abcf1cf53406d8642c11ff
+size 406
